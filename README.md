@@ -3,7 +3,7 @@
 
 ---
 
-Welcome to my github, here you can find all my data analytics projects. Feel free to look & reach out to me about my projects!
+Welcome to my github, here you can find all my data analytics projects. Have a look at my projects & feel free to reach out to me about it!
 
 ---
 
